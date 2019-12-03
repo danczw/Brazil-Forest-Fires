@@ -1,0 +1,2 @@
+# Brazil-Forest-Fires
+This analyzes focuses on the development of forest fires in Brazil over 20 years (1998 - 2017) in order to find any relevant trend in their occurrence. Aim is to evaluate whether there has been an increase of forest fires as the latest developments in 2019 suggests and will provide some valuable insights into the threats for one of the worlds largest and most important habitat. 
